@@ -1,33 +1,32 @@
-# 🌟 Bem-vindo(a) ao meu Universo Digital! 🌟
+# 🌟 Bem-vindo(a)! 🌟
 
-Olá! Eu sou a Tainara Santos, mas me chame de Tess! E este é o meu espaço onde a paixão por **tecnologia**, **criatividade** e **aprendizado** ganham vida. 
+Oi, sou a **Tainara Santos**, mas pode me chamar de **Tess**! Este é o meu espaço onde **tecnologia**, **criatividade** e **aprendizado** se misturam de um jeito que dá certo (quase sempre).
 
 ## Sobre mim
 
 - **Idade**: 24 anos
-- **Hobbies**: Amante de **jogos**, **filmes** e **livros** (meus escapes favoritos)
-- **Paixão**: **Tecnologia e programação** — adoro explorar o universo da inovação e criar soluções.
-- **Interesses**: **Desenvolvimento Java** e ferramentas relacionadas, sempre buscando aprender mais e evoluir minhas habilidades.
+- **Hobbies**: **Jogos**, **filmes** e **livros** (porque a vida precisa de escapadas)
+- **Paixão**: **Tecnologia e programação**. Fico empolgada em criar soluções — mesmo que nem sempre a solução seja a mais simples.
+- **Interesses**: **Desenvolvimento Java** e tudo o que envolve esse mundo.
 
-## O que você encontra aqui
+## O que você vai encontrar por aqui
 
 ### 💻 Projetos
 
-- **Desenvolvimento Backend com Java**: Foco em soluções robustas usando **Spring Boot**, **JPA**, **Hibernate** e outras ferramentas Java.
-- **Aprendizado Contínuo**: Pequenos experimentos, desafios de código e soluções criativas para problemas reais e fictícios.
+- **Desenvolvimento Backend com Java**: Gosto de resolver problemas com **Spring Boot**, **JPA**, **Hibernate** e outras coisas Java.
+- **Aprendizado Contínuo**: Entre um bug e outro, estou sempre criando algo novo, ou pelo menos tentando.
 
 ### 🔧 Ferramentas & Tecnologias
 
-- **Linguagem principal**: Java
+- **Linguagem principal**: Java (não dá pra negar, é o meu lugar)
 - **Frameworks**: Spring Boot, Hibernate
 - **Ferramentas**: IntelliJ IDEA
-- **Outras linguagens**: Explorando **PHP** e **Tudo Front-End** para ampliar horizontes!
+- **Outras linguagens**: Tentando entender **PHP** e me aventurando no **front-end**.
 
-😊
+## Vamos trocar uma ideia?
 
 - **LinkedIn**: [Tainara Santos](https://www.linkedin.com/in/tainara-santos)
 
 ## Curiosidade
 
-
-Sinta-se à vontade para explorar, colaborar e trocar ideias comigo. 
+Sinta-se à vontade para explorar, mandar mensagem e, se a gente se encontrar em algum projeto, ótimo! **Valeu pela visita!**
