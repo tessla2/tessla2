@@ -18,7 +18,7 @@ Oi, sou a **Tainara Santos**, mas pode me chamar de **Tess**! Este é o meu espa
 
 ## Vamos trocar uma ideia?
 
-- **LinkedIn**: [Tainara Santos](https://www.linkedin.com/in/tainara-santos)
+- **LinkedIn**: [Tainara Santos](https://www.linkedin.com/in/tainarasantos019/)
 
 ## Curiosidade
 
