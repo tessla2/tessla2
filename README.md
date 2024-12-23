@@ -1,4 +1,4 @@
-# 🌟 Olá! 🌟
+# 💫 Olá! 
 
 Oi, sou a **Tainara Santos**, mas pode me chamar de **Tess**! Este é o meu espaço onde **tecnologia**, **criatividade** e **aprendizado** se misturam de um jeito que dá certo (quase sempre).
 
