@@ -1,4 +1,4 @@
-# 🌟 Bem-vindo(a)! 🌟
+# 🌟 Olá! 🌟
 
 Oi, sou a **Tainara Santos**, mas pode me chamar de **Tess**! Este é o meu espaço onde **tecnologia**, **criatividade** e **aprendizado** se misturam de um jeito que dá certo (quase sempre).
 
@@ -8,13 +8,6 @@ Oi, sou a **Tainara Santos**, mas pode me chamar de **Tess**! Este é o meu espa
 - **Hobbies**: **Jogos**, **filmes** e **livros** (porque a vida precisa de escapadas)
 - **Paixão**: **Tecnologia e programação**. Fico empolgada em criar soluções — mesmo que nem sempre a solução seja a mais simples.
 - **Interesses**: **Desenvolvimento Java** e tudo o que envolve esse mundo.
-
-## O que você vai encontrar por aqui
-
-### 💻 Projetos
-
-- **Desenvolvimento Backend com Java**: Gosto de resolver problemas com **Spring Boot**, **JPA**, **Hibernate** e outras coisas Java.
-- **Aprendizado Contínuo**: Entre um bug e outro, estou sempre criando algo novo, ou pelo menos tentando.
 
 ### 🔧 Ferramentas & Tecnologias
 
