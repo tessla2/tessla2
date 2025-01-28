@@ -1,25 +1,26 @@
-# 💫 Olá! 
+💫 Hello!
+Hi, I'm Tainara Santos, but you can call me Tess! This is my space where technology, creativity, and learning come together in a way that works (most of the time).
 
-Oi, sou a **Tainara Santos**, mas pode me chamar de **Tess**! Este é o meu espaço onde **tecnologia**, **criatividade** e **aprendizado** se misturam de um jeito que dá certo (quase sempre).
+About Me
+Age: 24 years old
 
-## Sobre mim
+Hobbies: Games, movies, and books (because life needs escapes)
 
-- **Idade**: 24 anos
-- **Hobbies**: **Jogos**, **filmes** e **livros** (porque a vida precisa de escapadas)
-- **Paixão**: **Tecnologia e programação**. Fico empolgada em criar soluções — mesmo que nem sempre a solução seja a mais simples.
-- **Interesses**: **Desenvolvimento Java** e tudo o que envolve esse mundo.
+Passion: Technology and programming. I get excited about creating solutions — even if they're not always the simplest.
 
-### 🔧 Ferramentas & Tecnologias
+Interests: Java development and everything that involves this world.
 
-- **Linguagem principal**: Java (não dá pra negar, é o meu lugar)
-- **Frameworks**: Spring Boot, Hibernate
-- **Ferramentas**: IntelliJ IDEA
-- **Outras linguagens**: Tentando entender **PHP** e me aventurando no **front-end**.
+🔧 Tools & Technologies
+Main language: Java (can't deny it, it's my place)
 
-## Vamos trocar uma ideia?
+Frameworks: Spring Boot, Hibernate
 
-- **LinkedIn**: [Tainara Santos](https://www.linkedin.com/in/tainarasantos019/)
+Tools: IntelliJ IDEA
 
-## Curiosidade
+Other languages: Trying to understand PHP and dabbling in front-end.
 
-Sinta-se à vontade para explorar, mandar mensagem e, se a gente se encontrar em algum projeto, ótimo! **Valeu pela visita!**
+Let's Chat?
+LinkedIn: Tainara Santos
+
+Fun Fact
+Feel free to explore, send a message, and if we meet in some project, great! Thanks for stopping by!
