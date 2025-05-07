@@ -33,7 +33,7 @@ Sou a **Tainara Santos**, mas pode me chamar de **Tess**. Tenho 24 anos, sou apa
 
 ## 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/-Tainara%20Santos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainara-santos)
+[![LinkedIn](https://img.shields.io/badge/Tainara_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainara-santos)
 
 💬 Sinta-se à vontade para explorar, mandar uma mensagem, ou me chamar para um projeto.  
 Se a gente se encontrar por aí, ótimo! Obrigada por passar aqui!
