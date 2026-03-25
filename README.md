@@ -3,7 +3,7 @@
 ![hello-cat](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
 Bem-vindo(a) ao meu cantinho onde **tecnologia**, **criatividade** e **aprendizado** se encontram — e, na maioria das vezes, funcionam direitinho 😸  
-Sou a **Tainara Santos**, mas pode me chamar de **Tess**. Tenho 24 anos, sou apaixonada por programação e adoro transformar ideias em código (mesmo que às vezes o código precise de café extra ☕).
+Sou a **Tainara Santos**, mas pode me chamar de **Tess**. Apaixonada por programação e adoro transformar ideias em código (mesmo que às vezes o código precise de café extra ☕).
 
 ---
 
