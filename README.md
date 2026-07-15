@@ -13,7 +13,6 @@ Sou a **Tainara Santos**, mas pode me chamar de **Tess**. Apaixonada por program
 - 🌱 Estudando e praticando **Spring Boot**, **Hibernate**, e APIs REST
 - 📚 Amo games, filmes e livros — porque a vida também precisa de escapes
 - 💡 Paixão: Criar soluções (mesmo que não sejam as mais simples de início 😅)
-- 👩‍🎓 Orgulhosamente mulher na tecnologia 💜
 
 ---
 
